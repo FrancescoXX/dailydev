@@ -12,7 +12,7 @@ Basically, participants are to read 1 article per day for 14 days/2 weeks (a for
 
 ## Criteria To Be A Winner:
 - You must have satisfied all the above rules to enter the challenge
-- You must follow @dailydotdev, @FrancescoCiull4 and @tobySolutions.
+- You must follow @dailydotdev and @tobySolutions.
 - Winners will be selected based on how very explicit and explanatory their tweet is.
 - You must be subscribed to the daily dev Youtube channel.
 
