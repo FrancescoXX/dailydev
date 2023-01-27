@@ -4,7 +4,7 @@ Basically, participants are to read 1 article per day for 14 days/2 weeks (a for
 
 
 ## To Participate In This Challenge:
-- You must have the daily dev extension on your browser
+- You must have the daily dev extension on your browser,check https://daily.dev/ to download the extension
 - You must create an account with daily dev and must have your feed filtered based on your tech niche
 - You’re to use a Twitter thread tagging @dailydotdev, @toby_solutions and @DSCUnilag to log your progress everyday.
 - In each daily tweet, you must include your daily dev username and a link to your daily dev profile
