@@ -1,4 +1,6 @@
-# Rules For The Challenge.
+# Details Of The Challenge.
+
+Basically, participants are to read 1 article per day for 14 days/2 weeks (a fortnight) from the Daily dev extension on their browsers. The challenge will start a day after its announcement, to give everyone ample time to be aware of the event.
 
 
 ## To Participate In This Challenge:
